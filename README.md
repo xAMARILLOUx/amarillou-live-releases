@@ -2,14 +2,14 @@
 
 Ferramenta para organizar interações, automações e overlays nas suas lives do TikTok, com integração ao TikFinity.
 
-**Versão atual: 0.3.5 · Windows 64 bits**
+**Versão atual: 0.4.0 · Windows 64 bits**
 
 ## Downloads
 
-- **[Baixar AMARILLOU LIVE — Completa](https://github.com/xAMARILLOUx/amarillou-live-releases/releases/download/v0.3.5/AMARILLOU.LIVE_0.3.5_x64-setup.exe)**
-- **[Baixar AMARILLOU LIVE — Lite](https://github.com/xAMARILLOUx/amarillou-live-releases/releases/download/v0.3.5/AMARILLOU.LIVE.LITE_0.3.5_x64-setup.exe)**
+- **[Baixar AMARILLOU LIVE — Completa](https://github.com/xAMARILLOUx/amarillou-live-releases/releases/download/v0.4.0/AMARILLOU.LIVE_0.4.0_x64-setup.exe)**
+- **[Baixar AMARILLOU LIVE — Lite](https://github.com/xAMARILLOUx/amarillou-live-releases/releases/download/v0.4.0/AMARILLOU.LIVE.LITE_0.4.0_x64-setup.exe)**
 
-[Notas da versão 0.3.5](https://github.com/xAMARILLOUx/amarillou-live-releases/releases/tag/v0.3.5) · [Versão anterior 0.3.0](https://github.com/xAMARILLOUx/amarillou-live-releases/releases/tag/v0.3.0) · [Todas as versões](https://github.com/xAMARILLOUx/amarillou-live-releases/releases)
+[Notas da versão 0.4.0](https://github.com/xAMARILLOUx/amarillou-live-releases/releases/tag/v0.4.0) · [Versão anterior 0.3.5](https://github.com/xAMARILLOUx/amarillou-live-releases/releases/tag/v0.3.5) · [Todas as versões](https://github.com/xAMARILLOUx/amarillou-live-releases/releases)
 
 ## Qual edição escolher?
 
@@ -20,6 +20,20 @@ Ferramenta para organizar interações, automações e overlays nas suas lives d
 Cada edição tem instalação e pasta de dados próprias. Atualize utilizando o instalador da mesma edição. Evite executar macros nas duas edições ao mesmo tempo; os atalhos globais também podem disputar a mesma combinação.
 
 ## Novidades
+
+### 0.4.0 — Controles, pódio e MVP
+
+- Automação no topo: iniciar, pausar, retomar e parar, junto aos controles de conexão e executor.
+- Solicitação do @ do canal na primeira abertura sem canal configurado; edição em **Conexão & Dados**.
+- **Reiniciar rodada** na Batalha da Comunidade: zera os pontos da batalha e começa novamente, mantendo a duração escolhida, inclusive sem limite de tempo.
+- Destaques em ouro, prata e bronze para o top 3 nas overlays de moedas e curtidas.
+- Botões **Ajustar aparência** e **Ajustar layout** na Galeria, Batalha e MVP.
+- Novo **Pódio semanal** com os três primeiros do ranking de moedas, fotos e nomes, sem mostrar valores.
+- Novo **MVP manual** com @, nome, foto e overlay em formato de brasão.
+- Consulta de novas versões na abertura, com download da edição correta e aviso de atualização disponível no rodapé.
+- Removido o indicador genérico “Sistema online”.
+
+A Lite recebe os controles, a configuração de canal e a consulta de atualizações. Pódio, MVP e rankings pertencem à edição Completa.
 
 ### 0.3.5 — Visual renovado
 
@@ -57,7 +71,7 @@ Selecione **Tema → Moderna** para usar o novo visual. O tema **Clássica** con
 4. Abra o aplicativo e configure a conexão com o TikFinity.
 5. Depois de atualizar, recarregue as fontes de navegador no OBS e as páginas de overlays abertas.
 
-**A atualização automática dentro do aplicativo ainda não está disponível.** As atualizações são baixadas e instaladas manualmente por esta página.
+**A partir da 0.4.0, o aplicativo verifica novas versões na abertura.** Quando houver uma versão estável com instalador da sua edição, **Atualizar** abre o download no navegador. A instalação é manual: feche a ferramenta e execute o instalador. **Agora não** recolhe o aviso, mantendo “Atualização disponível” junto à versão durante essa sessão. Na próxima abertura, a consulta é refeita. Falhas de conexão não impedem o uso. Quem utiliza uma versão anterior à 0.4.0 deve baixar esta atualização pelos links acima.
 
 Os arquivos **Source code (zip)** e **Source code (tar.gz)** gerados pelo GitHub não são instaladores. Este repositório público distribui instaladores e documentação; o código do aplicativo é mantido separadamente.
 
@@ -71,6 +85,12 @@ Os arquivos **Source code (zip)** e **Source code (tar.gz)** gerados pelo GitHub
 A **Galeria** fica em **Overlays → Presentes da Live** e a **Batalha da Comunidade** em **Overlays → X1 / Batalhas**. Tamanhos sugeridos: **1080 × 380** para a galeria e **1080 × 800** para a batalha. Aparência e layout compartilhados ficam em **Global**.
 
 Na Lite, está disponível a overlay do baú. A quantidade prática de fontes depende dos recursos do computador e do programa que as exibe.
+
+O **Pódio semanal** usa os dados da semana corrente e compartilha aparência e layout com o ranking de moedas; alterar esses ajustes afeta ambos. Tamanho sugerido: **840 × 550**.
+
+Em **Comunidade → MVP**, informe o @ e salve. Nome e foto podem vir do cadastro local de participantes; não há busca de perfis arbitrários no TikTok. Você pode personalizar o nome e enviar uma foto PNG, JPEG ou WebP de até 250 KB. Sem foto, aparece a inicial; **Limpar MVP** oculta o brasão. Tamanho sugerido: **460 × 560**.
+
+Galeria, Batalha e MVP têm controles individuais de aparência e layout. Os ajustes globais continuam disponíveis para as overlays tradicionais.
 
 ## Detalhes de funcionamento
 
