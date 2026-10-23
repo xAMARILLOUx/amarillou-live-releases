@@ -2,14 +2,14 @@
 
 Ferramenta para organizar interações, automações e overlays nas suas lives do TikTok, com integração ao TikFinity.
 
-**Versão atual: 0.5.0 · Windows 64 bits**
+**Versão atual: 0.5.1 · Windows 64 bits**
 
 ## Downloads
 
-- **[Baixar AMARILLOU LIVE — Completa](https://github.com/xAMARILLOUx/amarillou-live-releases/releases/download/v0.5.0/AMARILLOU.LIVE_0.5.0_x64-setup.exe)**
-- **[Baixar AMARILLOU LIVE — Lite](https://github.com/xAMARILLOUx/amarillou-live-releases/releases/download/v0.5.0/AMARILLOU.LIVE.LITE_0.5.0_x64-setup.exe)**
+- **[Baixar AMARILLOU LIVE — Completa](https://github.com/xAMARILLOUx/amarillou-live-releases/releases/download/v0.5.1/AMARILLOU.LIVE_0.5.1_x64-setup.exe)**
+- **[Baixar AMARILLOU LIVE — Lite](https://github.com/xAMARILLOUx/amarillou-live-releases/releases/download/v0.5.1/AMARILLOU.LIVE.LITE_0.5.1_x64-setup.exe)**
 
-[Notas da versão 0.5.0](https://github.com/xAMARILLOUx/amarillou-live-releases/releases/tag/v0.5.0) · [Versão anterior 0.4.0](https://github.com/xAMARILLOUx/amarillou-live-releases/releases/tag/v0.4.0) · [Todas as versões](https://github.com/xAMARILLOUx/amarillou-live-releases/releases)
+[Notas da versão 0.5.1](https://github.com/xAMARILLOUx/amarillou-live-releases/releases/tag/v0.5.1) · [Versão anterior 0.5.0](https://github.com/xAMARILLOUx/amarillou-live-releases/releases/tag/v0.5.0) · [Todas as versões](https://github.com/xAMARILLOUx/amarillou-live-releases/releases)
 
 ## Qual edição escolher?
 
@@ -20,6 +20,10 @@ Ferramenta para organizar interações, automações e overlays nas suas lives d
 Cada edição tem instalação e pasta de dados próprias. Atualize utilizando o instalador da mesma edição. Evite executar macros nas duas edições ao mesmo tempo; os atalhos globais também podem disputar a mesma combinação.
 
 ## Novidades
+
+### 0.5.1 — Correção de rolagem
+
+Corrige a rolagem externa em Presets & Macros, mantendo o topo e o menu lateral fixos e a rolagem dentro dos painéis. Disponível na Completa e na Lite.
 
 ### 0.5.0 — MVP automático e destaques compactos
 - MVP manual ou automático pelos rankings da semana, do dia ou da Batalha da Comunidade; ocultação quando não há participante.
