@@ -2,14 +2,14 @@
 
 Ferramenta para organizar interações, automações e overlays nas suas lives do TikTok, com integração ao TikFinity.
 
-**Versão atual: 0.4.0 · Windows 64 bits**
+**Versão atual: 0.5.0 · Windows 64 bits**
 
 ## Downloads
 
-- **[Baixar AMARILLOU LIVE — Completa](https://github.com/xAMARILLOUx/amarillou-live-releases/releases/download/v0.4.0/AMARILLOU.LIVE_0.4.0_x64-setup.exe)**
-- **[Baixar AMARILLOU LIVE — Lite](https://github.com/xAMARILLOUx/amarillou-live-releases/releases/download/v0.4.0/AMARILLOU.LIVE.LITE_0.4.0_x64-setup.exe)**
+- **[Baixar AMARILLOU LIVE — Completa](https://github.com/xAMARILLOUx/amarillou-live-releases/releases/download/v0.5.0/AMARILLOU.LIVE_0.5.0_x64-setup.exe)**
+- **[Baixar AMARILLOU LIVE — Lite](https://github.com/xAMARILLOUx/amarillou-live-releases/releases/download/v0.5.0/AMARILLOU.LIVE.LITE_0.5.0_x64-setup.exe)**
 
-[Notas da versão 0.4.0](https://github.com/xAMARILLOUx/amarillou-live-releases/releases/tag/v0.4.0) · [Versão anterior 0.3.5](https://github.com/xAMARILLOUx/amarillou-live-releases/releases/tag/v0.3.5) · [Todas as versões](https://github.com/xAMARILLOUx/amarillou-live-releases/releases)
+[Notas da versão 0.5.0](https://github.com/xAMARILLOUx/amarillou-live-releases/releases/tag/v0.5.0) · [Versão anterior 0.4.0](https://github.com/xAMARILLOUx/amarillou-live-releases/releases/tag/v0.4.0) · [Todas as versões](https://github.com/xAMARILLOUx/amarillou-live-releases/releases)
 
 ## Qual edição escolher?
 
@@ -20,6 +20,16 @@ Ferramenta para organizar interações, automações e overlays nas suas lives d
 Cada edição tem instalação e pasta de dados próprias. Atualize utilizando o instalador da mesma edição. Evite executar macros nas duas edições ao mesmo tempo; os atalhos globais também podem disputar a mesma combinação.
 
 ## Novidades
+
+### 0.5.0 — MVP automático e destaques compactos
+- MVP manual ou automático pelos rankings da semana, do dia ou da Batalha da Comunidade; ocultação quando não há participante.
+- Overlays compactas com foto circular, presente e combo opcional, incluindo rotação entre quatro destaques.
+- Cinco estilos adicionais de molduras e efeitos para overlays: Clássico dourado, Trono real, Brasão prateado, Arena e Neon.
+- X1 com barra de disputa, efeito de impacto e simulador local com dois bots, sem alterar os dados da live.
+- Atalhos para ferramentas em atividade e opção **Liberar todos** os baús.
+- Placar com números em verde/vermelho ou azul/vermelho.
+- Correção da rolagem do editor de macros, melhoria da janela compacta Lite, catálogo e migração antiga recolhidos.
+
 
 ### 0.4.0 — Controles, pódio e MVP
 
